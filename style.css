@@ -1,0 +1,132 @@
+body{
+    background:  linear-gradient(to bottom left, #0033cc 0%, #ffffff 100%);
+}
+
+}
+button{
+    cursor:pointer;
+}
+#start{
+    padding: 5px 40px;
+    margin: 10px 50px;
+    font-size: 20px;
+    font-family: serif;
+    background: linear-gradient(to right, #33ccff 0%, #0000cc 100%);;
+    color: white;
+    border: none;
+    border-radius: 5px ;
+    border: 1.5px solid #003399;
+    transition: 0.5s
+   
+}
+#start:hover {
+     background-color: #003399;
+     background-image: none;
+     transition: 1s;
+
+}
+#find{
+    padding: 5px 40px;
+    margin: 10px 50px;
+    font-size: 20px;
+    font-family: cursive;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    background-color: #ccccff;
+    border: 2px solid rgb(39, 7, 7);
+}
+#find:hover{
+    background-color: #6666ff;
+    color: rgb(39, 7, 7);
+}
+#contact{ 
+    padding: 5px 40px;
+    margin: 10px 50px;
+    font-size: 20px;
+    font-family: fantasy;
+    color: white;
+    background-color: #339933;
+    border: none;
+    border-radius: 5px;
+    border: 2px solid  #143914;
+    https://dlpng.com/png/7042457
+}
+#contact:hover{
+    background-color: white;
+    color: #339933;
+    transition: 0.3s;
+}
+#app{
+    padding: 5px 40px;
+    margin: 10px 50px;
+    font-size: 20px;
+    font-family: monospace;
+    color: white;
+    background:linear-gradient(to right, #33ccff 0%, #ccffcc 100%);
+    border: none;
+    border-radius: 5px;
+
+}
+#app:hover{
+    color: rgb(43, 46, 85);
+    background: linear-gradient(to right, #33ccff 0%, #009999 100%);
+}
+#twitter{
+    
+    margin: 10px 50px;
+    font-size: 20px;
+    font-family: sans-serif;
+    color: #037bf4;
+    border: none;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    
+
+}
+#twitter:hover{
+    height: 4;
+    width: 60px;
+    transition-duration: 2s;
+    background-color: #037bf4 ;
+    color: white;
+}
+#fb{
+   
+    margin: 10px 50px;
+    font-size: 35px;
+    color: #5D93FF;
+    border: none;
+    border-radius: 5px;
+}
+#fb:hover{
+    color: white;
+    background-color: #5D93FF;
+    height: 60px;
+    width: 60px;
+    transition-duration: 2s;
+
+}
+#insta{
+   
+    margin: 10px 50px;
+    font-size: 30px;
+    font-family: monospace;
+    color: white;
+    border: none;
+    border-radius: 5px;
+   background: linear-gradient(to bottom left, #6600cc 0%, #ff9900 100%);
+   
+}
+#insta:hover{
+    height: 45px;
+    width: 45px;
+    transition-duration: 2s;
+    
+
+
+}
+.icons{
+    margin: 0px 300px;
+}
